@@ -1,4 +1,4 @@
-# World Time App
+# World Time App (My First Android App)
 
 A simple android application made using flutter to see time of different time zones of the world.
 
